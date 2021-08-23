@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/RegisterDashboard/static/css/main.919f0017.chunk.css",
-    "main.js": "/RegisterDashboard/static/js/main.156af097.chunk.js",
-    "runtime-main.js": "/RegisterDashboard/static/js/runtime-main.39f949f2.js",
-    "static/js/2.ac30c843.chunk.js": "/RegisterDashboard/static/js/2.ac30c843.chunk.js",
-    "static/js/3.6359b0af.chunk.js": "/RegisterDashboard/static/js/3.6359b0af.chunk.js",
+    "main.js": "/RegisterDashboard/static/js/main.a55b0840.chunk.js",
+    "runtime-main.js": "/RegisterDashboard/static/js/runtime-main.e5e33128.js",
+    "static/js/2.b669de61.chunk.js": "/RegisterDashboard/static/js/2.b669de61.chunk.js",
+    "static/js/3.c27fb013.chunk.js": "/RegisterDashboard/static/js/3.c27fb013.chunk.js",
     "index.html": "/RegisterDashboard/index.html",
-    "static/js/2.ac30c843.chunk.js.LICENSE.txt": "/RegisterDashboard/static/js/2.ac30c843.chunk.js.LICENSE.txt"
+    "static/js/2.b669de61.chunk.js.LICENSE.txt": "/RegisterDashboard/static/js/2.b669de61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.39f949f2.js",
-    "static/js/2.ac30c843.chunk.js",
+    "static/js/runtime-main.e5e33128.js",
+    "static/js/2.b669de61.chunk.js",
     "static/css/main.919f0017.chunk.css",
-    "static/js/main.156af097.chunk.js"
+    "static/js/main.a55b0840.chunk.js"
   ]
 }
